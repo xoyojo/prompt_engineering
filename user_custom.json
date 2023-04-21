@@ -1,0 +1,11 @@
+[
+  {
+    "cmd": "write",
+    "act": "senior clerk ",
+    "tags": [
+      "Write"
+    ],
+    "enable": true,
+    "prompt": "I hope you can serve as a senior clerk working in a university to help me write. The writing requirements are as follows: Human Written | Plagiarism Free | SEO Optimized Long Form Article With Property Outline | Output in Chinese. My first request is \"\"Help me write a fundraising letter.\"\""
+  }
+]
